@@ -20,23 +20,23 @@ body{
 }
 .card{
   background-color: var(--White-);
-  padding: 16px;
+  padding: 15px;
   border-radius: 12px;
   max-width: 320px;
   text-align: center;
   margin: 0 1em;
 }
 .card > img{
-  border-radius: 8px;
+  border-radius: 7px;
   width: 100%;
 }
 .card > .text {
-  margin: 16px 12px;
+  margin: 14px 12px;
 }
 .card h2{
   color: var(--Dark-blue-);
   margin-bottom: 12px;
 }
 .card p{
-  color: var(--Light-gray-);
+  color: var(--Grayish-blue-);
 }
