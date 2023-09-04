@@ -32,7 +32,7 @@ body{
   width: 100%;
 }
 .card > .text {
-  margin: 16px 12px;
+  margin: 16px 10px;
 }
 .card h2{
   color: var(--Dark-blue-);
