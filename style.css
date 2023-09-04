@@ -34,7 +34,7 @@ body{
 .card > .text {
   margin: 16px 10px;
 }
-.card h2{
+.card h1{
   color: var(--Dark-blue-);
   margin-bottom: 12px;
 }
